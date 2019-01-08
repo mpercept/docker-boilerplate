@@ -26,7 +26,7 @@ This maps the original api (running in the container) at port 8000 to 8080 in th
 
 Open browser or any client that can handle HTTP requests and try the following url:  
 ```bash
-http://localhost:8000/test
+http://localhost:8080/test
 ```
 
 #### List Docker Processes
